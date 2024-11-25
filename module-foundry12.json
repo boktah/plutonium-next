@@ -17,10 +17,10 @@
 	"readme": "README.md",
 	"license": "UNLICENSED",
 	"bugs": "https://discord.gg/nGvRCDs",
-	"changelog": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/CHANGELOG.md",
+	"changelog": "https://raw.githubusercontent.com/boktah/plutonium-next/master/CHANGELOG.md",
 	"url": "https://www.patreon.com/Giddy5e",
-	"manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module-foundry12.json",
-	"download": "https://github.com/TheGiddyLimit/plutonium-next/raw/master/plutonium-foundry12.zip",
+	"manifest": "https://raw.githubusercontent.com/boktah/plutonium-next/master/module-foundry12.json",
+	"download": "https://github.com/boktah/plutonium-next/raw/master/plutonium-foundry12.zip",
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12.331",
@@ -87,6 +87,6 @@
 		}
 	},
 	"flags": {
-		"attributions": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/ATTRIBUTIONS.md"
+		"attributions": "https://raw.githubusercontent.com/boktah/plutonium-next/master/ATTRIBUTIONS.md"
 	}
 }
